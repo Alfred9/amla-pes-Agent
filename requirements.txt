@@ -1,1 +1,9 @@
+openai
+langchain
+streamlit
+python-dotenv
+requests
+pylatex
+pandas
+tenacity
 
